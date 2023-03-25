@@ -25,7 +25,7 @@ cd team-coordination
 python3 quickCompare.py
 ```
 
-# Run the demo (large nodes graph)
+## Run the demo (large nodes graph)
 For `--nodes` param, add number of nodes and for `riskyedge` param, add risk edge ratio (more info in the paper). 
 
 ```bash
