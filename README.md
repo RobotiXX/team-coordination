@@ -14,15 +14,23 @@ Sara Oughourli, Manshi Limbu, Zechen Hu, Xuan Wang, Xuesu Xiao, Daigo Shishika, 
 # Installation
 
 ```bash
-python install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 
-## Run the demo (small nodes)
+## Run the demo (small nodes graph)
 
 ```bash
 cd team-coordination
-python graphComparision.py
+python3 quickCompare.py
+```
+
+# Run the demo (large nodes graph)
+For `--nodes` param, add number of nodes and for `riskyedge` param, add risk edge ratio (more info in the paper). 
+
+```bash
+cd team-coordination
+python3 graphCompare.py --nodes 10 --riskedge 0.2
 ```
 
 ## Algorithms 
