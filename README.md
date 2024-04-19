@@ -1,7 +1,7 @@
 # Team-Coordination
 This is implementation of team-coordination between multiple agents in presence of adversaries using graphs as mentioned in our paper:
 
-Sara Oughourli, Manshi Limbu, Zechen Hu, Xuan Wang, Xuesu Xiao, Daigo Shishika, [Team Coordination on Graphs with State-Dependent Edge Cost](https://arxiv.org/abs/2303.11457)
+Manshi Limbu, Sara Oughourli, Zechen Hu, Xuan Wang, Xuesu Xiao, Daigo Shishika, [Team Coordination on Graphs with State-Dependent Edge Costs](https://ieeexplore.ieee.org/abstract/document/10341820)
 
 [Youtube Link is here!](https://www.youtube.com/watch?v=UnMjOX3ffw8&ab_channel=DaigoShishika)
 
