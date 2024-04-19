@@ -1,4 +1,4 @@
-# Team-Coordination
+# Team-Coordination on Graphs with Risky Edges (TCGRE)
 This is implementation of team-coordination between multiple agents in presence of adversaries using graphs as mentioned in our paper:
 
 Manshi Limbu, Sara Oughourli, Zechen Hu, Xuan Wang, Xuesu Xiao, Daigo Shishika, [Team Coordination on Graphs with State-Dependent Edge Costs](https://ieeexplore.ieee.org/abstract/document/10341820)
