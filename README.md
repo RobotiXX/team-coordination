@@ -44,12 +44,15 @@ You can choose between following algorithms:
 
 Please cite our paper if you use this code in your own work:
 ```
-@misc{oughourli2023team,
-      title={Team Coordination on Graphs with State-Dependent Edge Cost}, 
-      author={Sara Oughourli and Manshi Limbu and Zechen Hu and Xuan Wang and Xuesu Xiao and Daigo Shishika},
-      year={2023},
-      eprint={2303.11457},
-      archivePrefix={arXiv},
-      primaryClass={cs.MA}
-}
+@INPROCEEDINGS{10341820,
+  author={Limbu, Manshi and Hu, Zechen and Oughourli, Sara and Wang, Xuan and Xiao, Xuesu and Shishika, Daigo},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Team Coordination on Graphs with State-Dependent Edge Costs}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={679-684},
+  keywords={Costs;Statistical analysis;Scalability;Path planning;Planning;Complexity theory;Game theory},
+  doi={10.1109/IROS55552.2023.10341820}}
+
 ```
